@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "metadata": {
+    "exporterClientId": "c1538225-c0fd-478c-838d-58c94590d0ca"
+  },
+  "activeBoardId": "ba632043-aaf1-4afc-9f31-fc87e42fc011",
+  "boards": {
+    "ba632043-aaf1-4afc-9f31-fc87e42fc011": {
+      "id": "ba632043-aaf1-4afc-9f31-fc87e42fc011",
+      "createdAt": "2026-05-08T09:57:16.485Z",
+      "updatedAt": "2026-05-08T09:57:16.485Z",
+      "revision": 1,
+      "lastModifiedByClientId": "c1538225-c0fd-478c-838d-58c94590d0ca",
+      "name": "TESTING Board"
+    },
+    "5fefef48-6dd9-4aa3-9aa9-dec133ca0eee": {
+      "id": "5fefef48-6dd9-4aa3-9aa9-dec133ca0eee",
+      "createdAt": "2026-05-08T09:55:19.170Z",
+      "updatedAt": "2026-05-08T09:55:19.170Z",
+      "revision": 1,
+      "lastModifiedByClientId": "c1538225-c0fd-478c-838d-58c94590d0ca",
+      "name": "Second Board"
+    }
+  },
+  "columns": {
+    "171dee48-8e32-4c50-9f53-04b0024e30b2": {
+      "id": "171dee48-8e32-4c50-9f53-04b0024e30b2",
+      "createdAt": "2026-05-08T09:57:16.485Z",
+      "updatedAt": "2026-05-08T09:57:16.485Z",
+      "revision": 1,
+      "lastModifiedByClientId": "c1538225-c0fd-478c-838d-58c94590d0ca",
+      "name": "TODO",
+      "boardId": "ba632043-aaf1-4afc-9f31-fc87e42fc011"
+    },
+    "b9592a5b-af0c-4223-b590-0cbd35ce96ac": {
+      "id": "b9592a5b-af0c-4223-b590-0cbd35ce96ac",
+      "createdAt": "2026-05-08T09:55:19.170Z",
+      "updatedAt": "2026-05-08T09:55:19.170Z",
+      "revision": 1,
+      "lastModifiedByClientId": "c1538225-c0fd-478c-838d-58c94590d0ca",
+      "name": "TODO",
+      "boardId": "5fefef48-6dd9-4aa3-9aa9-dec133ca0eee"
+    },
+    "0650a29b-36a4-444f-a0e4-766125e4254f": {
+      "id": "0650a29b-36a4-444f-a0e4-766125e4254f",
+      "createdAt": "2026-05-08T09:55:19.170Z",
+      "updatedAt": "2026-05-08T09:55:19.170Z",
+      "revision": 1,
+      "lastModifiedByClientId": "c1538225-c0fd-478c-838d-58c94590d0ca",
+      "name": "DOING",
+      "boardId": "5fefef48-6dd9-4aa3-9aa9-dec133ca0eee"
+    },
+    "ad7c0af1-436d-40fc-a91f-6148c86c64fc": {
+      "id": "ad7c0af1-436d-40fc-a91f-6148c86c64fc",
+      "createdAt": "2026-05-08T09:55:19.170Z",
+      "updatedAt": "2026-05-08T09:55:19.170Z",
+      "revision": 1,
+      "lastModifiedByClientId": "c1538225-c0fd-478c-838d-58c94590d0ca",
+      "name": "DONE",
+      "boardId": "5fefef48-6dd9-4aa3-9aa9-dec133ca0eee"
+    }
+  },
+  "tasks": {
+    "8efd89d7-d44e-4251-89b5-cc651e5188ba": {
+      "id": "8efd89d7-d44e-4251-89b5-cc651e5188ba",
+      "createdAt": "2026-05-08T09:57:16.485Z",
+      "updatedAt": "2026-05-08T09:57:16.485Z",
+      "revision": 1,
+      "lastModifiedByClientId": "c1538225-c0fd-478c-838d-58c94590d0ca",
+      "title": "Task in todo",
+      "description": "",
+      "columnId": "171dee48-8e32-4c50-9f53-04b0024e30b2"
+    }
+  },
+  "subtasks": {},
+  "tombstones": {
+    "boards": {},
+    "columns": {},
+    "tasks": {},
+    "subtasks": {}
+  }
+}
